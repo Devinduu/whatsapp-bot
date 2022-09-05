@@ -1,5 +1,5 @@
 {
-	"name": "Deploy",
+	"name": "DEVINDU BOT",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
@@ -20,7 +20,7 @@
         },
         "READ_MESSAGES": {
             "description": "Bot will read all messages. Can be also false",
-            "required": true,
+            "required": false,
             "value":"false"
         },
         "READ_COMMAND": {
